@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="p-div finder">
+        <h1 class="heading">Search Github Users</h1>
+        <p>Enter a user name to fetch user profile info and repo</p>
+        <input type="text" autocomplete="off">
+    </div>
+    <div class="p-div info">
+        <div class="col1">
+            <img src="https://avatars.githubusercontent.com/u/583231?v=4" alt="image" class="imgage">
+            <button class="view-profile">View Profile</button>
+        </div>
+        <div class=" col2">
+            <p class="collection">
+            <span style="background-color:rgb(83, 114, 199);" class="repos">Public Repos :</span>
+            <span style="background-color:#999;" class="gits">Public Gits :</span>
+            <span style="background-color:rgb(93, 192, 118);"class="followers">Followers :</span>
+            <span style="background-color:rgb(77, 160, 180);" class="following">Following :</span>
+            </p>
+            <p class="website">Website/blog : </p>
+            <p class="company">Company : </p>
+            <p class="location">Location : </p>
+            <p class="member">Member Science : </p>
+
+        </div>
+    </div>
+    <div class="p-div repo">
+        <h2>Latest Repo</h2>
+        <div class="repo"></div>
+    </div>
+    <!-- <div class="p-div test"><p>Hello</p></div> -->
+</body>
+<script src ="class.js"></script>
+<script src ="ui.js"></script>
+</html>

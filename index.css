@@ -1,0 +1,88 @@
+*{
+    font-family: monospace;
+}
+html{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 1;
+    padding: 0 200px;
+}
+.p-div{
+    border: 1px solid;
+    border-radius: 2px;
+    background-color: #eee;
+    padding: 10px;
+}
+h1{
+    margin:0 0 5px 0;
+}
+p{
+    margin:0;
+    border: 1px solid;
+    padding: 8px;
+    border-bottom: 0;
+}
+p:last-child{
+    border-bottom: 1px solid;
+}
+input{
+    outline: none;
+    width: 99%;
+    border: 1px solid;
+    padding: 2px 1px;
+    padding-right: 2px;
+}
+ul{
+    list-style: none;
+}
+img{
+    width: 175px;
+    height: 175px;
+}
+.col1{
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+}
+.col2{
+    display: inline-block;
+    width: 68%;
+    margin-left: 10px;
+}
+.info{
+    display: flex;
+}
+span{
+    border-radius: 2px;
+    font-size: 9px;
+    color: white;
+    padding: 2px 4px;
+}
+.repo p{
+    border: 1px solid;
+    margin: 2px;
+}
+.repo h2{
+    margin: 0;
+    margin-bottom: 10px;
+}
+.collection{
+    border: none;
+    padding: 10px 0 20px 0;
+}
+.danger{
+    color: rgb(207, 108, 42);
+    margin-bottom: 5px;
+}
+.test{
+    height:10rem;
+    position: relative;
+}
+/* .test p{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+} */
