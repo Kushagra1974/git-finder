@@ -1,4 +1,4 @@
-This a javascript project that fetch the user information from github api and display it ,if a user dont exist then it will show a error message
+###This a javascript project that fetch the user information from github api and display it ,if a user dont exist then it will show a error message
 
 #### To use the project open the index.html file
 
