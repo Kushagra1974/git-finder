@@ -6,6 +6,6 @@
 ## Hosted on 
 https://inquisitive-baklava-f764c3.netlify.app/
 
-## features 
-### Search a git hub profile based on user name.
-### can see there profile piture.
+## Features 
+1) Search a git hub profile based on user name.
+2) can see there profile picture.
