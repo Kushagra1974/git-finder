@@ -3,7 +3,7 @@
 
 #### preview
 
-## hosted on 
+## Hosted on 
 https://inquisitive-baklava-f764c3.netlify.app/
 
 ## features 
