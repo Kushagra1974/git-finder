@@ -3,6 +3,9 @@
 
 #### preview
 
+## hosted on 
+https://inquisitive-baklava-f764c3.netlify.app/
 
-https://user-images.githubusercontent.com/53535063/139428343-35e955ba-13c9-468e-814d-c27ce8edbc7c.mp4
-
+## features 
+### Search a git hub profile based on user name.
+### can see there profile piture.
